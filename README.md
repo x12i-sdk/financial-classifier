@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Classify financial activity into statement, function, nature, geography, and eligibility schedules.
-- A Financial integration needs to reuse the capabilities of @x12i/financial-classifier inside a larger application.
+- Assign an account's activity to a category using an explicit approved rule.
+- Inspect unmapped dimensions and conflicting rules before relying on a reporting schedule.
 
 ## Links
 
