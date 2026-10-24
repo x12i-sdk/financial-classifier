@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/financial-classifier",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/financial-classifier",
+  "usageRepository": "https://github.com/x12i-sdk/financial-classifier",
+  "sourceRepository": "https://github.com/x12i/finanfix",
+  "sourceCommit": "8630e4c4f201deb35cd10c3790c9d5abdbce4633",
+  "sourcePackageDirectory": "packages/classifier",
+  "example": {
+    "title": "Classify a synthetic expense with an explicit approved rule",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:20:48.026688+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "8f71157f2872602ab7a42ad511431e467cd31652c3a9e512b4b6e5fe673d42c3",
+    "manifestSha256": "c82881d125177c2696bc6d2bd3089fe42a440ec0b113deb86af02fd7f4967166"
+  }
+}
